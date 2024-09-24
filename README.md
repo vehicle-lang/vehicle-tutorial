@@ -1152,7 +1152,7 @@ The previous exercise could be transformed into a proper empirical
 evaluation of robustness of the model for the data set. To do this,
 include more than 2 images into your `idx` file. A script for generating
 `idx` files is available [in the supporting
-materials](https://github.com/vehicle-lang/tutorial/tree/tutorial/exercises/Chapter%203.%20Proving%20Robustness/MNIST).
+materials](https://github.com/vehicle-lang/tutorial/tree/tutorial/exercises/chapter3/MNIST-complete).
 
 Assuming you created an `idx` file with, for example, 500 images, run
 *Vehicle* on this file, and collect statistics for
