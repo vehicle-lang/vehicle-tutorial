@@ -1207,7 +1207,7 @@ different robustness properties in:
 Use *Vehicle* to define other forms of Robustness property from Casadio
 et al.
 
-\*Please note: although the \_Vehicle*language is rich enough to compile
+*Please note: although the *Vehicle* language is rich enough to compile
 all the robustness definitions, not all definitions will be feasible for
 Marabou that can have only one occurence of a neural network per
 specification.*
