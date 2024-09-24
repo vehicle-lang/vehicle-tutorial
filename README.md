@@ -1218,15 +1218,15 @@ Re-define the *classification* and *standard robustness* properties by
 using some different notion of distance, e.g. the Euclidean distance,
 instead of the $L_{\infty}$ norm.
 
-\*Please note: although the \_Vehicle*language is rather rich to allow
-such extensions, not all specifications will be feasible for Marabou
-that works with linear real arithmetic.*
+*Please note: although the *Vehicle* language is rich and allows such
+extensions, not all specifications will be feasible for Marabou that
+works with linear real arithmetic.*
 
 ### Exercise ($*$) Practicing to write property specifications
 
 To test your understanding of the robustness property, try completing
 the robustness verification in [this
-file](https://github.com/vehicle-lang/tutorial/tree/tutorial/exercises/Chapter3.ProvingRobustness/MNIST-incomplete).
+file](https://github.com/vehicle-lang/tutorial/tree/tutorial/exercises/chapter3/MNIST-incomplete).
 
 ### Exercise ($***$): Conduct a complete “training - verification” experiment from start to finish
 
