@@ -1242,7 +1242,7 @@ Either:
   `idx` files; or
 - obtain the model and `idx` files directly from the directory with [the
   supporting
-  materials](https://github.com/vehicle-lang/tutorial/tree/tutorial/exercises/Chapter%203.%20Proving%20Robustness/FMNIST)
+  materials](https://github.com/vehicle-lang/tutorial/tree/tutorial/exercises/chapter3/FMNIST)
 
 Once this is done, define the spec and verify its robustness. Experiment
 with different values of $\epsilon$ and different definitions of
